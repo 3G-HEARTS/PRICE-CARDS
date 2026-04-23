@@ -33,15 +33,3 @@ CSS3
 ├── style.css
 └── assets/
     └── (imagens, ícones, etc)
-💻 Como Executar
-Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Acesse a pasta:
-cd seu-repositorio
-Abra o arquivo index.html no navegador
-
-Ou use uma extensão como Live Server no VS Code.
-
-Este projeto está sob a licença MIT.
-
-Se quiser, posso deixar ele mais profissional ainda (nível GitHub top) ou adaptar para portfólio 😉
